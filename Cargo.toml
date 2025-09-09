@@ -2,6 +2,14 @@
 name = "dtp"
 version = "0.0.1"
 edition = "2024"
+authors = ["Yrrrrrf <fer.rezac@outlook.com>"]
+description = "A lightweight, foundational crate for building layered data transfer protocols"
+readme = "README.md"
+license = "MIT"
+documentation = "https://docs.rs/dtp"
+repository = "https://github.com/Yrrrrrf/dtp" # Assumes you will create a new repo for dtp
+keywords = ["protocol", "network", "osi", "stack", "framing"]
+categories = ["network-programming"]
 
 [dependencies]
 bytes = "1.10.1"
